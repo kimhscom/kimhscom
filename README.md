@@ -18,7 +18,7 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/47877911/88288497-d42b0400-cd2e-11ea-819f-e2fa50f5e60b.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/47877911/88288382-aa71dd00-cd2e-11ea-8fc2-a1f7ae93de63.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhscom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhscom&langs_count=6&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 ![Github status](https://github-readme-stats.vercel.app/api?username=kimhscom&show_icons=true&hide_border=true)
 
 👔 [linkedin][linkedin]
