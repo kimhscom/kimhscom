@@ -1,6 +1,6 @@
 ### Hello, My name is Hyunsu. 👋
 
-## I'm a former semiconductor equipment technician and now a web developer.
+## I'm developing web and apps as a hobby.
 
 - 🔭 I’m currently working on a portfolio and a side project.
 - 🌱 I’m currently learning TypeScript, NestJS, React and Jest.
@@ -28,5 +28,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhscom&langs_count=6&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 ![Github status](https://github-readme-stats.vercel.app/api?username=kimhscom&show_icons=true&hide_border=true)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimhscom)](https://www.linkedin.com/in/kimhscom)
